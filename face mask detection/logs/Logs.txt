@@ -1,0 +1,48 @@
+2021-05-31/23:27:47		Loading frozen inference graph
+2021-05-31/23:28:05		Successfully loading frozen inference graph
+2021-05-31/23:27:42		Streaming started..!!
+2021-05-31/23:28:42		Streaming done..!!
+2021-06-01/18:03:41		Loading frozen inference graph
+2021-06-01/18:03:58		Successfully loading frozen inference graph
+2021-06-01/18:03:37		Streaming started..!!
+2021-06-01/18:04:32		Streaming done..!!
+2021-06-01/18:06:22		Loading frozen inference graph
+2021-06-01/18:06:22		Exception:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb} occurred
+2021-06-01/18:06:22		Exiting from loader method of Load_model class
+2021-06-01/18:06:17		Streaming started..!!
+2021-06-01/18:06:22		Exception:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb} occurred
+2021-06-01/18:06:22		Exiting from stream method of Detection class
+2021-06-01/18:07:24		Loading frozen inference graph
+2021-06-01/18:07:24		Exception:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb} occurred
+2021-06-01/18:07:24		Exiting from loader method of Load_model class
+2021-06-01/18:07:20		Streaming started..!!
+2021-06-01/18:07:24		Exception:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb} occurred
+2021-06-01/18:07:24		Exiting from stream method of Detection class
+2021-06-01/18:07:43		Loading frozen inference graph
+2021-06-01/18:07:43		Exception:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb} occurred
+2021-06-01/18:07:43		Exiting from loader method of Load_model class
+2021-06-01/18:07:39		Streaming started..!!
+2021-06-01/18:07:43		Exception:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb} occurred
+2021-06-01/18:07:43		Exiting from stream method of Detection class
+2021-06-01/18:10:16		Loading frozen inference graph
+2021-06-01/18:10:16		Exception:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb} occurred
+2021-06-01/18:10:16		Exiting from loader method of Load_model class
+2021-06-01/18:10:12		Streaming started..!!
+2021-06-01/18:10:16		Exception:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb} occurred
+2021-06-01/18:10:16		Exiting from stream method of Detection class
+2021-06-01/18:10:49		Loading frozen inference graph
+2021-06-01/18:11:08		Successfully loading frozen inference graph
+2021-06-01/18:10:46		Streaming started..!!
+2021-06-01/18:11:31		Streaming done..!!
+2021-06-01/18:13:34		Loading frozen inference graph
+2021-06-01/18:13:34		Exception occurred
+2021-06-01/18:13:34		Exception massage:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb}
+2021-06-01/18:13:34		Exiting from loader method of Load_model class
+2021-06-01/18:13:29		Streaming started..!!
+2021-06-01/18:13:34		Exception occurred
+2021-06-01/18:13:34		Exception massage:: SavedModel file does not exist at: models\ssd_mobilenet\saved_model.pb\{saved_model.pbtxt|saved_model.pb}
+2021-06-01/18:13:34		Exiting from stream method of Detection class
+2021-06-01/18:14:24		Loading frozen inference graph
+2021-06-01/18:14:45		Successfully loading frozen inference graph
+2021-06-01/18:14:21		Streaming started..!!
+2021-06-01/18:15:11		Streaming done..!!
